@@ -1,5 +1,5 @@
 
-# Neural Network Engineering Mastery 
+# Neural Network Engineering Mastery  
 
 Objective: produce engineers capable of designing neural architectures, training large-scale models, building production AI systems, and launching high-impact AI products.
 
