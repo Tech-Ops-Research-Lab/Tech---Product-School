@@ -1,5 +1,5 @@
 # Phase 3 — Data and Mathematical Foundations
-## AI Engineering Product School Curriculum
+## AI Engineering Product School Curriculum.
 
 Phase 3 introduces the **mathematical and data science foundations required for artificial intelligence engineering**.
 
